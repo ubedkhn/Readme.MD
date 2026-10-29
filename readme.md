@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Adityathakur214">
+  <a href="https://github.com/ubedkhn">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -219,8 +219,8 @@ An AI-based solution for identifying the appropriate delivery post office using 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityathakur214&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityathakur214&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ubedkhn&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubedkhn&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -236,7 +236,7 @@ An AI-based solution for identifying the appropriate delivery post office using 
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityathakur214/Adityathakur214/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ubedkhn/ubedkhn/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -245,11 +245,11 @@ An AI-based solution for identifying the appropriate delivery post office using 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
+<a href="https://www.linkedin.com/in/ubedkhan-/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Adityathakur214">
+<a href="https://github.com/ubedkhn">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -270,5 +270,5 @@ Working towards becoming a strong **Generative AI / AI Engineer**, building prac
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityathakur214&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=ubedkhn&style=for-the-badge&color=blue"/>
 </p>
