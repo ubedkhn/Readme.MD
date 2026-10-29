@@ -228,7 +228,7 @@ An AI-based solution for identifying the appropriate delivery post office using 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityathakur214&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ubedkhn&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
